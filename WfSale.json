@@ -1,0 +1,126 @@
+{
+        "Type": "Part",
+        "Search": "equinox_prime_neuroptics",
+        "Zh": "Equinox Prime 头部神经光元",
+        "En": "Equinox Prime Neuroptics"
+    },{
+        "Type": "Part",
+        "Search": "equinox_prime_systems",
+        "Zh": "Equinox Prime 系统",
+        "En": "Equinox Prime Systems"
+    },{
+        "Type": "Part",
+        "Search": "equinox_prime_chassis",
+        "Zh": "Equinox Prime 机体",
+        "En": "Equinox Prime Chassis"
+    },{
+        "Type": "Part",
+        "Search": "equinox_prime_blueprint",
+        "Zh": "Equinox Prime 蓝图",
+        "En": "Equinox Prime Blueprint"
+    },{
+        "Type": "Warframe",
+        "Search": "equinox_prime_set",
+        "Zh": "Equinox Prime 整套",
+        "En": "Equinox Prime Set"
+    },{
+        "Type": "Warframe",
+        "Search": "equinox_prime_set",
+        "Zh": "阴阳 Prime 整套",
+        "En": "Equinox Prime Set"
+    },{
+        "Type": "Warframe",
+        "Search": "equinox_prime_set",
+        "Zh": "扶他 Prime 整套",
+        "En": "Equinox Prime Set"
+    },{
+        "Type": "Part",
+        "Search": "stradavar_prime_blueprint",
+        "Zh": "斯特拉迪瓦 Prime 蓝图",
+        "En": "Stradavar Prime Blueprint"
+    },{
+        "Type": "Part",
+        "Search": "stradavar_prime_barrel",
+        "Zh": "斯特拉迪瓦 Prime 枪管",
+        "En": "Stradavar Prime Barrel"
+    },{
+        "Type": "Part",
+        "Search": "stradavar_prime_receiver",
+        "Zh": "斯特拉迪瓦 Prime 枪机",
+        "En": "Stradavar Prime Receiver"
+    },{
+        "Type": "Part",
+        "Search": "stradavar_prime_stock",
+        "Zh": "斯特拉迪瓦 Prime 枪托",
+        "En": "Stradavar Prime Stock"
+    },{
+        "Type": "Weapon",
+        "Search": "stradavar_prime_set",
+        "Zh": "斯特拉迪瓦 Prime 整套",
+        "En": "Stradavar Prime Set"
+    },{
+        "Type": "Part",
+        "Search": "tipedo_prime_blueprint",
+        "Zh": "提佩多 Prime 蓝图",
+        "En": "Tipedo Prime Blueprint"
+    },{
+        "Type": "Part",
+        "Search": "tipedo_prime_ornament",
+        "Zh": "提佩多 Prime 饰物",
+        "En": "Tipedo Prime Ornament"
+    },{
+        "Type": "Part",
+        "Search": "tipedo_prime_handle",
+        "Zh": "提佩多 Prime 握柄",
+        "En": "Tipedo Prime Handle"
+    },{
+        "Type": "Weapon",
+        "Search": "tipedo_prime_set",
+        "Zh": "提佩多 Prime 整套",
+        "En": "Tipedo Prime Set"
+    },{
+        "Type": "Relic",
+        "Search": "axi_t2_intact",
+        "Zh": "后纪 T2 完整",
+        "En": "Axi T2 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "axi_k5_intact",
+        "Zh": "后纪 K5 完整",
+        "En": "Axi K5 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "neo_n10_intact",
+        "Zh": "中纪 N10 完整",
+        "En": "Neo N10 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "neo_s11_intact",
+        "Zh": "中纪 S11 完整",
+        "En": "Neo S11 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "meso_e2_intact",
+        "Zh": "前纪 E2 完整",
+        "En": "Meso E2 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "meso_m3_intact",
+        "Zh": "前纪 M3 完整",
+        "En": "Meso M3 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "meso_z3_intact",
+        "Zh": "前纪 Z3 完整",
+        "En": "Meso Z3 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "lith_m4_intact",
+        "Zh": "古纪 M4 完整",
+        "En": "Lith M4 Intact"
+    },{
+        "Type": "Relic",
+        "Search": "lith_p2_intact",
+        "Zh": "古纪 P2 完整",
+        "En": "Lith P2 Intact"
+    }
